@@ -1,2 +1,2 @@
 # DRSS
-Discord bot to handle RSS flux
+A light discord bot to handle RSS flux
